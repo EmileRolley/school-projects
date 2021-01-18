@@ -18,4 +18,4 @@ utilisateurs inscrits.
 
 ## Utilisation
 
-Les instructions d'utilisations se trouvent dans le fichier [user-manual.md](https://gitlab.com/EmileRolley/school-projects/apparticulier/user-manual.md)
+Les instructions d'utilisations se trouvent dans le fichier [user-manual.md](https://gitlab.com/EmileRolley/school-projects/-/blob/master/apparticulier/user-manual.md)
