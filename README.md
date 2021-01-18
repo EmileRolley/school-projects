@@ -20,23 +20,24 @@
 
 ### Semester 2
 
-| Project                                                                                     | Description                                                                                             | Course                 | Authors                             | Language   | Tools            | Nb lines   |
-| -------------------------------------------------------------------------------             | --                                                                                                      | ---------------------- | ----------------------------------- | ---------- | ---------------- | ---------- |
-| [apparticulier](https://gitlab.com/EmileRolley/school-projects/-/tree/master/apparticulier) | A web site allowing to put in relation owners and private individuals by posting ads and text chatting. | *Internet et Outils*   | BLERALD Clément <br> ROLLEY Emile   | **PHP**    | MySQL <br> CSS   | 1753       |
+| Project                                                                                     | Description                                                                                             | Course                 | Authors                             | Language   | Tools              | Nb lines   |
+| -------------------------------------------------------------------------------             | --                                                                                                      | ---------------------- | ----------------------------------- | ---------- | ----------------   | ---------- |
+| [apparticulier](https://gitlab.com/EmileRolley/school-projects/-/tree/master/apparticulier) | A web site allowing to put in relation owners and private individuals by posting ads and text chatting. | *Internet et Outils*   | BLERALD Clément <br> ROLLEY Emile   | **PHP**    | `MySQL` <br> `CSS` | 1753       |
 
 ## Licence 2
 
 ### Semester 3
 
-| Project                                                                       | Description                   | Course               | Authors                                                                                                                   | Language | Tools                                    | Nb lines |
-|-------------------------------------------------------------------------------|-------------------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------|----------|
-| [maljae](https://gitlab.com/EmileRolley/school-projects/-/tree/master/maljae) | A team assignment web server. | *Conduite de projet* | KHOW Antoine <br> LIO Antoine <br> CHHOA Thierry <br> MARIN Grégoire <br> PHOLASA Rémy <br> ROLLEY Emile <br> THOMAS Huog | **Java** | Make <br> Maven <br> CSS <br> FreeMarker | 4418     |
+| Project                                                                       | Description                               | Course                       | Authors                                                                                                                   | Language | Tools                                    | Nb lines |
+|-------------------------------------------------------------------------------|-------------------------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------|----------|
+| [maljae](https://gitlab.com/EmileRolley/school-projects/-/tree/master/maljae) | A team assignment web server.             | *Conduite de projet*         | KHOW Antoine <br> LIO Antoine <br> CHHOA Thierry <br> MARIN Grégoire <br> PHOLASA Rémy <br> ROLLEY Emile <br> THOMAS Huog | **Java** | `Make` <br> `Maven` <br> `CSS` <br> `FreeMarker` | 4418     |
+| [azul](https://gitlab.com/EmileRolley/school-projects/-/tree/master/azul)     | A Java application for playing to *Azul*. | *POO et Interface Graphique* | MARIN Grégoire <br> ROLLEY Emile                                                                                          | **Java** | `Make`                                     | 2380     |
 
 ### Semester 4
 
-| Project                                                                   | Description                               | Course                       | Authors                          | Language | Tools | Nb lines |
-|---------------------------------------------------------------------------|-------------------------------------------|------------------------------|----------------------------------|----------|-------|----------|
-| [azul](https://gitlab.com/EmileRolley/school-projects/-/tree/master/azul) | A Java application for playing to *Azul*. | *POO et Interface Graphique* | MARIN Grégoire <br> ROLLEY Emile | **Java** | Make  | 2380     |
+| Project                                                                           | Description                                      | Course                    | Authors                                        | Language | Tools                                                 | Nb lines |
+|-----------------------------------------------------------------------------------|--------------------------------------------------|---------------------------|------------------------------------------------|----------|-------------------------------------------------------|----------|
+| [codelab4](https://gitlab.com/EmileRolley/school-projects/-/tree/master/codelab4) | An educational application to learn programming. | *Projet de programmation* | LIU Antoine <br> ROLLEY Emile <br> THOMAS Hugo | **Java** | `JavaFX` <br> `JUnit4` <br> `Docker` <br> `GitLab-CI` | 8537     |
 
 ## Licence 3
 
