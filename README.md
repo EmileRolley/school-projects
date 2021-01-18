@@ -43,6 +43,7 @@
 
 ### Semester 5
 
-| Project                                                                 | Description          | Course    | Authors                                        | Language | Tools                                 | Nb lines |
-|-------------------------------------------------------------------------|----------------------|-----------|------------------------------------------------|----------|---------------------------------------|----------|
-| [tsh](https://gitlab.com/EmileRolley/school-projects/-/tree/master/tsh) | A shell for tarball. | *Système* | LIU Antoine <br> ROLLEY Emile <br> THOMAS Hugo | **C**    | `Make` <br> `Docker` <br> `GitLab-CI` | 15901    |
+| Project                                                                   | Description              | Course    | Authors                                            | Language  | Tools                                 | Nb lines |
+|---------------------------------------------------------------------------|--------------------------|-----------|----------------------------------------------------|-----------|---------------------------------------|----------|
+| [tsh](https://gitlab.com/EmileRolley/school-projects/-/tree/master/tsh)   | A shell for tarball.     | *Système* | LIU Antoine <br> ROLLEY Emile <br> THOMAS Hugo     | **C**     | `Make` <br> `Docker` <br> `GitLab-CI` | 15901    |
+| [dpll](https://gitlab.com/EmileRolley/school-projects/-/tree/master/dpll) | A recursive DPLL solver. | *Logique* | BLERALD Clément <br> ROLLEY Emile <br> THOMAS Hugo | **OCaml** | `Make`                                | 186      |
