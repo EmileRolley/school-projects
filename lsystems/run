@@ -1,0 +1,2 @@
+#!/bin/sh
+./_build/default/main/main.exe $@
