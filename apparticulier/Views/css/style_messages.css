@@ -1,0 +1,102 @@
+main {
+   display: grid;
+   justify-content: center;
+}
+
+article {
+   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   border-radius: 15px;
+   align-self: center;
+   width: 500px;
+   background-color: #333333;
+   display: flex;
+   flex-direction: column;
+   position: center;
+   padding: 10px;
+}
+
+h1 {
+   color: white   ;
+   text-align: center;
+}
+
+div {
+   content: flex;
+   flex-direction: row;
+   max-width: 200px;
+   min-width: 110px;
+   border-radius: 1.5em;
+   background: transparent;
+   cursor: text;
+   font-family: 'Source Sans Pro' ,'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-size: 0.9em;
+   line-height: 1;
+   margin: 5px;
+   outline: none;
+   padding: 4px 17px;
+}
+
+div.msgUser {
+   align-self: flex-end;
+   background-color: #7abeff;
+   color: white;
+   border-radius: 1.7em 0 1.7em 1.7em;
+}
+
+div.msgReceiv {
+   align-self: flex-start;
+   background-color: white;
+   color: #333;
+   border-radius: 0 1.7em 1.7em 1.7em;
+}
+
+.date {
+   font-size: 0.7em;
+}
+
+form input{
+   align-self: center;
+   border-radius: 3em;
+   background: white;
+   border: #003366 1px solid;
+   cursor: pointer;
+   font-family: 'Source Sans Pro' ,'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-size: 0.9em;
+   line-height: 0.9;
+   margin: 5px;
+   outline: none;
+   padding: 8px 10px;
+}
+
+input[type=text] {
+   margin-left: 40px;
+   width: 300px;
+}
+
+input[type=text]:hover {
+   border: 2px solid #7abeff;
+   padding: 6px 9px;
+   cursor: text;
+}
+
+input[type=submit] {
+   padding: 8px 15px;
+}
+
+input[type=submit]:hover {
+   background-color: #7abeff;
+   color: white;
+   cursor: pointer;
+}
+
+#delete {
+   display: none;
+   border-style: none;
+   font-size: 0.6em;
+   background-color: transparent;
+}
+
+div:hover #delete {
+   display: block;
+   justify-self: flex-end;
+}
