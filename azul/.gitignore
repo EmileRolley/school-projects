@@ -1,0 +1,6 @@
+# tmp files
+**/~*
+
+# binary files
+**/*.class
+
