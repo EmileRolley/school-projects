@@ -3,6 +3,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [Stages](#stages)
 * [Licence 1](#licence-1)
 	* [Semester 2](#semester-2)
 * [Licence 2](#licence-2)
@@ -12,6 +13,12 @@
 	* [Semester 5](#semester-5)
 
 <!-- vim-markdown-toc -->
+
+## Stages
+
+| Subject                                                                                                                                                                                     | Place                                                                                                                                                                                                                       | Duration             | Language | Tools                                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------|-----------------------------------------|
+| [Implementation of new shape descriptors for the analysis of 3D images of plant cells.](https://gitlab.com/EmileRolley/school-projects/-/tree/master/stages/2019-IJPB/Rapport_de_stage.pdf) | [Modeling and Digital Imaging](https://www-ijpb.versailles.inra.fr/en/bc/equipes/modelisation-imagerie/index.html) team of the [Institut Jean-Pierre Bourgin](https://www-ijpb.versailles.inra.fr), INRA Versailles, France | 1 mounth (june 2019) | **C++**  | `QtCreator` <br> `ImageJ` <br> `Free-D` |
 
 ## Licence 1
 
@@ -40,11 +47,11 @@
 
 ### Semester 5
 
-| Project                                                                            | Description                                  | Course                        | Authors                                        | Language  | Tools                                                                         | Nb lines |
-|------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------|------------------------------------------------|-----------|-------------------------------------------------------------------------------|----------|
-| [tsh](https://gitlab.com/EmileRolley/school-projects/-/tree/master/tsh)            | A shell for tarball.                         | *Système*                     | LIU Antoine <br> ROLLEY Emile <br> THOMAS Hugo | **C**     | `Make` <br> `Docker` <br> `GitLab-CI`                                         | 15901    |
-| [paleo](https://gitlab.com/EmileRolley/school-projects/-/tree/master/paleo)        | A multi typed calculator.                    | *Complément de POO*           | PHOLASA Rémy <br> ROLLEY Emile                 | **Java**  | `Make` <br> `Maven` <br> `Junit4` <br> `JFLex` <br> `Docker` <br> `GitLab-CI` | 3491     |
-| [L-Systèmes](https://gitlab.com/EmileRolley/school-projects/-/tree/master/lsytems) | A L-Systems visualizer.                      | *Programmation fonctionnelle* | PHOLASA Rémy <br> ROLLEY Emile                 | **OCaml** | `Make` <br> `Docker` <br> `GitLab-CI`                                         | 1438     |
-| [SMT-LIB](https://gitlab.com/EmileRolley/school-projects/-/tree/master/smtlib)     | A SMT-LIB generator for automatic seprators. | *Logique*                     | BLERALD Clément <br> ROLLEY Emile              | **OCaml** | `Make`                                                                        | 317      |
-| [DPLL](https://gitlab.com/EmileRolley/school-projects/-/tree/master/dpll)          | A recursive DPLL solver.                     | *Logique*                     | BLERALD Clément <br> ROLLEY Emile              | **OCaml** | `Make`                                                                        | 186      |
+| Project                                                                            | Description                                   | Course                        | Authors                                        | Language  | Tools                                                                         | Nb lines |
+|------------------------------------------------------------------------------------|-----------------------------------------------|-------------------------------|------------------------------------------------|-----------|-------------------------------------------------------------------------------|----------|
+| [tsh](https://gitlab.com/EmileRolley/school-projects/-/tree/master/tsh)            | A shell for tarball.                          | *Système*                     | LIU Antoine <br> ROLLEY Emile <br> THOMAS Hugo | **C**     | `Make` <br> `Docker` <br> `GitLab-CI`                                         | 15901    |
+| [paleo](https://gitlab.com/EmileRolley/school-projects/-/tree/master/paleo)        | A multi typed calculator.                     | *Complément de POO*           | PHOLASA Rémy <br> ROLLEY Emile                 | **Java**  | `Make` <br> `Maven` <br> `Junit4` <br> `JFLex` <br> `Docker` <br> `GitLab-CI` | 3491     |
+| [L-Systèmes](https://gitlab.com/EmileRolley/school-projects/-/tree/master/lsytems) | A L-Systems visualizer.                       | *Programmation fonctionnelle* | PHOLASA Rémy <br> ROLLEY Emile                 | **OCaml** | `Make` <br> `Docker` <br> `GitLab-CI`                                         | 1438     |
+| [SMT-LIB](https://gitlab.com/EmileRolley/school-projects/-/tree/master/smtlib)     | A SMT-LIB generator for automatic separators. | *Logique*                     | BLERALD Clément <br> ROLLEY Emile              | **OCaml** | `Make`                                                                        | 317      |
+| [DPLL](https://gitlab.com/EmileRolley/school-projects/-/tree/master/dpll)          | A recursive DPLL solver.                      | *Logique*                     | BLERALD Clément <br> ROLLEY Emile              | **OCaml** | `Make`                                                                        | 186      |
 
