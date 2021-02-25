@@ -2,7 +2,7 @@
 
 [![pipeline status](https://gaufre.informatique.univ-paris-diderot.fr/EmileRolley/pf5/badges/master/pipeline.svg)](https://gaufre.informatique.univ-paris-diderot.fr/EmileRolley/pf5/commits/master)
 
-[Rapport](https://gitlab.com/EmileRolley/school-projects/-/blob/master/lsystems/Rapport.md)
+Un rapport contenant plus d'informations se trouve [ici](https://gitlab.com/EmileRolley/school-projects/-/blob/master/lsystems/Rapport.md).
 
 ## Compilation
 
