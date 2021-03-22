@@ -11,6 +11,7 @@
 	* [Semester 4](#semester-4)
 * [Licence 3](#licence-3)
 	* [Semester 5](#semester-5)
+	* [Semester 6](#semester-6)
 
 <!-- vim-markdown-toc -->
 
@@ -54,3 +55,12 @@
 | [L-Systèmes](https://gitlab.com/EmileRolley/school-projects/-/tree/master/lsystems) | A L-Systems visualizer.                       | *Programmation fonctionnelle* <br> <small>(18/20)</small>     | PHOLASA Rémy <br> ROLLEY Emile                 | **OCaml** | `Make` <br> `Docker` <br> `OUnit2` <br> `GitLab-CI`                           | Unit testing | 1438     |
 | [SMT-LIB](https://gitlab.com/EmileRolley/school-projects/-/tree/master/smtlib)      | A SMT-LIB generator for automatic separators. | *Logique*                                                     | BLERALD Clément <br> ROLLEY Emile              | **OCaml** | `Make`                                                                        | *None*       | 317      |
 | [DPLL](https://gitlab.com/EmileRolley/school-projects/-/tree/master/dpll)           | A recursive DPLL solver.                      | *Logique*                                                     | BLERALD Clément <br> ROLLEY Emile              | **OCaml** | `Make`                                                                        | *None*       | 186      |
+
+### Semester 6
+
+| Project                                                       | Description                               | Course                          | Authors                                        | Language            | Tools                                                                           | Tests        | Nb lines |
+|---------------------------------------------------------------|-------------------------------------------|---------------------------------|------------------------------------------------|---------------------|---------------------------------------------------------------------------------|--------------|----------|
+| [Honu](-)                                                     | A interpreter for image creation.         | *Grammaire et analyse lexicale* | ROLLEY Emile <br> THOMAS Hugo                  | **OCaml**           | `Make` <br> `Dune` <br> `Menhir` <br> `ocamllex` <br> `Docker` <br> `GitLab-CI` | Unit testing | **WIP**  |
+| [NetRadio](https://gitlab.com/EmileRolley/netradio)           | A broadcasting service for text messages. | *Programmation Réseau*          | LIU Antoine <br> ROLLEY Emile <br> THOMAS Hugo | **C** <br> **Java** | `Make` <br> `Docker` <br> `GitLab-CI` <br> `cester`                             | Unit testing | **WIP**  |
+| [Search engine](https://gitlab.com/EmileRolley/search-engine) | A corpus search engine.                   | *Linguistique Informatique*     | ???? Léo <br> ROLLEY Emile <br> THOMAS Hugo    | **Python**          | *None*                                                                          | *None*       | **WIP**  |
+
