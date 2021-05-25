@@ -2,8 +2,6 @@
 
 An interpreted programming language and tool chain for turtle graphics.
 
-![Example](/uploads/8b21178e0dfd411fd28cb386beb23627/Screenshot_from_2021-05-09_17-32-27.png)
-
 ## Contents
 
 <!-- vim-markdown-toc GFM -->
