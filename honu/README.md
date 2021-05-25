@@ -1,6 +1,8 @@
-# Honu 🐢 ![tag][tag]
+# Honu 🐢 ![ci][ci] ![tag][tag]
 
 An interpreted programming language and tool chain for turtle graphics.
+
+![Example](/uploads/2334e36a3b00fad33afdea7642d83bd4/Screenshot_from_2021-05-09_17-32-27.png)
 
 ## Contents
 
@@ -141,8 +143,7 @@ with the following tags:
 * `fixme`, will add an item (in bold) to the FIXME list.
 * `param`, will add a description to a specified identifiant.
 
-> The grammar and example could be found in the
-> [report](https://gitlab.com/EmileRolley/school-projects/-/blob/master/honu/doc/report.pdf).
+> The grammar and example could be found in the [report](https://gitlab.com/EmileRolley/school-projects/-/blob/master/honu/doc/report.pdf).
 
 ### .. setup syntax highlighting
 
@@ -162,3 +163,4 @@ You need to copy the `./syntax-highlight/vim/honu.vim` syntax file into
 > Use `.hn` file extension and refresh the window after installation.
 
 [tag]: https://img.shields.io/badge/tag-v2.0-blue
+[ci]: https://gaufre.informatique.univ-paris-diderot.fr/EmileRolley/gasp/badges/master/pipeline.svg
