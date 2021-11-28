@@ -1,7 +1,24 @@
-# School projects
+<p align="center">
+  <a style="font-size:55px" href="https://github.com/EmileRolley/sustainable-computing-resources">
+	  <img src="https://www.svgrepo.com/show/229812/graduate-student.svg" alt="Logo" width="100" height="100">
+  </a>
+  <h3 align="center">
+	School projects
+  </h3>
 
+  <p align="center">
+    All my main projects done for university courses.
+   <!-- <br /> -->
+   <!--  <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a> -->
+    <br />
+   <!--  <a href="https://github.com/github_username/repo_name">View Demo</a> -->
+  </p>
+</p>
 
-<!-- vim-markdown-toc GFM -->
+<details>
+  <summary>Table of Contents</summary>
+
+<!-- vim-markdown-toc GitLab -->
 
 * [Stages](#stages)
 * [Licence 1](#licence-1)
@@ -14,6 +31,8 @@
 	* [Semester 6](#semester-6)
 
 <!-- vim-markdown-toc -->
+
+</details>
 
 ## Stages
 
