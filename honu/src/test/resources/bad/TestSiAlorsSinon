@@ -1,5 +1,0 @@
-# Condition should be an expression
-
-Debut
-	Si Avance 0 Alors Avance 0 Sinon Avance 0;
-Fin

@@ -1,7 +1,0 @@
-target/
-paleo-lib/src/main/java/paleo/lib/parser/JFLexer.java*
-paleo-lib/.*
-paleo-demo/.*
-*.jar
-*~
-*.html

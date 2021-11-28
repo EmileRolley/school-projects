@@ -1,4 +1,0 @@
-(library
-  (name utils)
-  (modules cli png)
-  (libraries core ANSITerminal graphics bimage bimage-unix))

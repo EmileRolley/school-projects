@@ -1,4 +1,0 @@
-(library
-  (name limage)
-  (modules (:standard))
-  (libraries graphics bimage bimage-unix))
